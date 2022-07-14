@@ -42,6 +42,8 @@ If the information provided qualifies for a loan or more you will be granted wit
 If the information provided does not qualify for any loans you will be granted with this prompt. ![loan_qualifier_app_not_qualified](https://user-images.githubusercontent.com/107158380/178882347-d5468b63-ede3-4421-b38c-8f5e09a49112.png)
 
 
+## Documentation
+To generate a text file of the command history, the code history 50 > terminal_history.txt is used to display the last 50 commands that were entered into the terminal. [terminal_history.txt](https://github.com/AdamCooke22/moduletwo/files/9107983/terminal_history.txt)
 
 
 ---
