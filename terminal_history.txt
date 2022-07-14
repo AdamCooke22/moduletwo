@@ -1,0 +1,11 @@
+    1  cd OneDrive
+    2  cd Desktop
+    3  cd FinTech-Workspace
+    4  cd Challenges
+    5  cd Module_two
+    6  cd Starter_Code
+    7  ls
+    8  cd loan_qualifier_app
+    9  ls
+   10  cd moduletwo
+   11  history 50 > terminal_history.txt
